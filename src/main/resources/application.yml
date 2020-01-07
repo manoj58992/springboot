@@ -1,0 +1,10 @@
+server:
+   port: 8045
+
+notification:
+   email:
+      from: manoj@gmail.com
+      message: Hello World! Email from the yml
+   text:
+      from: 8739282928
+      message: Hello World! Text from the yml
